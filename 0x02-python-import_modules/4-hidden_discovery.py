@@ -1,4 +1,3 @@
-
 if __name__ == "__main__":
      """Print all names in the hidden_4 module."""
     import hidden_4
